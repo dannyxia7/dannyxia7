@@ -8,15 +8,21 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 
 ---
 
-## 📂 Projects
+## Projects
 
-| Project Link | Area | Project Description | Libraries |    
-|---|---|---|---|
-| 🤖 [NLP_Restaurant_Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | pandas, scikit-learn, nltk, xgboost, lightgbm |
-| 🕹 [Steam_Review_Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression | Analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | PySpark, pandas, seaborn |
-| 📊 [World-Happiness-Report](https://github.com/dannyxia7/World-Happiness-Report) | EDA, Visualization | Explored happiness scores globally with geographic visualizations and correlation analysis. | pandas, seaborn, matplotlib |
-| 🧠 [UCSD_DSC_207R](https://github.com/dannyxia7/UCSD_DSC_207R) | NLP, Course Projects | Coursework projects from UCSD's graduate NLP course, including transformer fine-tuning and bias mitigation. | transformers, PyTorch, scikit-learn |
-| 🧾 [SQL-Practice](https://github.com/dannyxia7/SQL-Practice) | SQL, Data Analysis | Practice queries covering joins, aggregations, window functions, and subqueries on public datasets. | PostgreSQL, SQLite |
+| Project | Area | Project Description | Libraries |    
+|-----------|-------------|--------|-------------------|
+| 🤖 [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
+| 🕹 [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression | Analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |
+| 📊 [World Happiness Report](https://github.com/dannyxia7/World-Happiness-Report) | EDA, Visualization | Explored happiness scores globally with geographic visualizations and correlation analysis. | `pandas`, `seaborn`, `matplotlib` |
+| 🧾 [SQL Practice](https://github.com/dannyxia7/SQL-Practice) | SQL, Data Analysis | Practice queries covering joins, aggregations, window functions, and subqueries on public datasets. | `PostgreSQL`, `SQLite` |
+
+## Coursework
+
+| Course | Description | Topics | Tools & Libraries |
+|--------|-------------|--------|-------------------|
+| 🧠 [DSC 207R: Data Science Fundamentals](https://github.com/dannyxia7/UCSD_DSC_207R) | Covers the full data science pipeline from data collection to visualization and ethical implications. | Data cleaning, EDA, ML, visualization, ethics | `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `Jupyter` |
+| 📊 [DSC 215R: Probability and Statistics for Data Science](https://github.com/dannyxia7/DSC_215R) | Foundations of probability and statistical inference tailored for data science applications. | Probability theory, inference, hypothesis testing | `scipy`, `pandas`, `statsmodels`, `matplotlib` |
 
 ---
 

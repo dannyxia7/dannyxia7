@@ -22,6 +22,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 | Course | Description | Topics | Tools & Libraries |
 |--------|-------------|--------|-------------------|
 | 🧠 [DSC 207R: Data Science Fundamentals](https://github.com/dannyxia7/UCSD_DSC_207R) | Covers the full data science pipeline from data collection (ingestion, pre-processing, loading) to analysis and visualization. | Data cleaning, EDA, ML, visualization | `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `Jupyter` |
+| 📦 [DSC 208R – Scalable Data Systems](https://github.com/dannyxia7/DSC_208R) | Big Data, SQL, Cloud | Organized, transformed, and queried large-scale data using SQL, Spark, and MapReduce. Covered relational algebra, cluster computing, data cleaning, and fairness in analytics pipelines. | `SQL`, `Apache Spark`, `pandas`, `cloud computing` |
 | 📊 [DSC 215R: Probability and Statistics for Data Science](https://github.com/dannyxia7/DSC_215R) | Foundations of probability and statistical inference tailored for data science applications. | Probability theory, inference, hypothesis testing | `scipy`, `pandas`, `statsmodels`, `matplotlib` |
 
 ---

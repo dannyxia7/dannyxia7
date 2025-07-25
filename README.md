@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 
 ## Projects
 
-| Project | Area | Project Description | Libraries |    
+| Project | Topics | Description | Tools & Libraries |    
 |-----------|-------------|--------|-------------------|
 | 🤖 [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
 | 🕹 [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression | Analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |
@@ -18,14 +18,16 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 | 📊 [World Happiness Report](https://github.com/dannyxia7/World-Happiness-Report) | EDA, Visualization | Explored happiness scores globally with geographic visualizations and correlation analysis. | `pandas`, `seaborn`, `matplotlib` |
 | 🧾 [SQL Practice](https://github.com/dannyxia7/SQL-Practice) | SQL, Data Analysis | Practice queries covering joins, aggregations, window functions, and subqueries on public datasets. | `PostgreSQL`, `SQLite` |
 
+---
+
 ## Coursework
 
-| Course | Description | Topics | Tools & Libraries |
-|--------|-------------|--------|-------------------|
-| 🧠 [DSC 207R: Data Science Fundamentals](https://github.com/dannyxia7/UCSD_DSC_207R) | Covers the full data science pipeline from data collection (ingestion, pre-processing, loading) to analysis and visualization. | Data Cleaning, EDA, ML, Visualization | `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `Jupyter` |
-| 📦 [DSC 208R: Scalable Data Systems](https://github.com/dannyxia7/DSC_208R) | Organized, transformed, and queried large-scale data using SQL, Spark, and MapReduce. Covered relational algebra, cluster computing, and  data cleaning in analytics pipelines. | Big Data, SQL, Cloud | `SQL`, `Apache Spark`, `pandas`, `cloud computing` |
-| 📊 [DSC 215R: Probability and Statistics for Data Science](https://github.com/dannyxia7/DSC_215R) | Foundations of probability and statistical inference tailored for data science applications. | Probability Theory, Inference, Hypothesis Testing | `scipy`, `pandas`, `statsmodels`, `matplotlib` |
-| 🧠 [DSC 255R: Machine Learning Fundamentals](https://github.com/dannyxia7/DSC_255R) | Supervised and unsupervised learning methods applied to real-world case studies in Python. | Classification, Regression, Kernels, Ensemble Methods, Dimensionality Reduction, Neural Networks | `Python`, `Scikit-learn`, `XGBoost`, `TensorFlow`, `NumPy`, `Matplotlib`, `Jupyter` |
+| Course | Topics | Description | Tools & Libraries |
+|--------|--------|-------------|-------------------|
+| 🧠 [DSC 207R: Data Science Fundamentals](https://github.com/dannyxia7/UCSD_DSC_207R) | Data Cleaning, EDA, ML, Visualization | Covers the full data science pipeline from data collection (ingestion, pre-processing, loading) to analysis and visualization. | `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `Jupyter` |
+| 📦 [DSC 208R: Scalable Data Systems](https://github.com/dannyxia7/DSC_208R) | Big Data, SQL, Cloud | Organized, transformed, and queried large-scale data using SQL, Spark, and MapReduce. Covered relational algebra, cluster computing, and data cleaning in analytics pipelines. | `SQL`, `Apache Spark`, `pandas`, `cloud computing` |
+| 📊 [DSC 215R: Probability and Statistics for Data Science](https://github.com/dannyxia7/DSC_215R) | Probability Theory, Inference, Hypothesis Testing | Foundations of probability and statistical inference tailored for data science applications. | `scipy`, `pandas`, `statsmodels`, `matplotlib` |
+| 🧠 [DSC 255R: Machine Learning Fundamentals](https://github.com/dannyxia7/DSC_255R) | Classification, Regression, Kernels, Ensemble Methods, Dimensionality Reduction, Neural Networks | Supervised and unsupervised learning methods applied to real-world case studies in Python. | `Python`, `Scikit-learn`, `XGBoost`, `TensorFlow`, `NumPy`, `Matplotlib`, `Jupyter` |
 
 ---
 

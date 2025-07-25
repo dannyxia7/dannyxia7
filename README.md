@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 ## Projects
 
 | Project | Topics | Description | Tools & Libraries |    
-|-----------|-------------|--------|-------------------|
+|--------|--------|-------------|-------------------|
 | 🤖 [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
 | 🕹 [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression | Analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |
 | 🌦️ [Weather ETL Pipeline](https://github.com/dannyxia7/Weather_ETL_Pipeline) | Data Engineering | Extracts, transforms, and loads weather forecast data from the OpenWeatherMap API into a PostgreSQL database using a scalable, batch-optimized pipeline. | `requests`, `psycopg2`, `json`, `logging`, `StringIO`, `PostgreSQL` |

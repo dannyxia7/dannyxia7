@@ -14,6 +14,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 |-----------|-------------|--------|-------------------|
 | 🤖 [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
 | 🕹 [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression | Analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |
+| 🌦️ [Weather ETL Pipeline](https://github.com/dannyxia7/Weather_ETL_Pipeline) | Data Engineering | Extracts, transforms, and loads weather forecast data from the OpenWeatherMap API into a PostgreSQL database using a scalable, batch-optimized pipeline. | `requests`, `psycopg2`, `json`, `logging`, `StringIO`, `PostgreSQL` |
 | 📊 [World Happiness Report](https://github.com/dannyxia7/World-Happiness-Report) | EDA, Visualization | Explored happiness scores globally with geographic visualizations and correlation analysis. | `pandas`, `seaborn`, `matplotlib` |
 | 🧾 [SQL Practice](https://github.com/dannyxia7/SQL-Practice) | SQL, Data Analysis | Practice queries covering joins, aggregations, window functions, and subqueries on public datasets. | `PostgreSQL`, `SQLite` |
 

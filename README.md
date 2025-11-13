@@ -11,7 +11,7 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 ## Projects
 
 | Project | Topics | Description | Tools & Libraries |    
-|--------|--------|-------------|-------------------|\
+|--------|--------|-------------|-------------------|
 | 📈 [Marketing Mix Modeling: Reported vs. Modeled Revenue](https://github.com/dannyxia7/Marketing_Mix_Model_Analysis) | Marketing Mixed Modeling, Marketing Analytics, Data Science, ROI | Analysis of why reported revenue from ad platforms is inflated compared to modeled revenue from MMM, and how this impacts budget allocation and ROI decisions. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `statsmodels` |
 | 🤖 [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
 | 🕹 [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression, Collaboration | Collaborated with two team members and analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |

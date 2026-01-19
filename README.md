@@ -10,6 +10,20 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 
 ---
 
+## Tech Stack & Skills
+
+**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Engineering & Big Data:** ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![ETL](https://img.shields.io/badge/ETL_Pipelines-grey?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Machine Learning & NLP:**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![vLLM](https://img.shields.io/badge/vLLM-blueviolet?style=for-the-badge)
+
+## My Data Lifecycle Focus
+- **Data Engineering:** Building the "plumbing" (ETL/Spark) to ensure data is clean, scalable, and reliable.
+- **Machine Learning:** Designing Deep Learning (CNNs) and LLM (RAG) models that solve complex problems.
+- **Data Science:** Converting model outputs into actionable ROI and strategic business decisions.
+
 ## Projects
 
 | Project | Topics | Description | Tools & Libraries |    
@@ -35,5 +49,9 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 
 ---
 
+## Connect with Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/dannyxia/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:danny@gmail.com)
+
 Thanks for checking out my work!
-Feel free to connect or collaborate.
+Feel free to connect with me.

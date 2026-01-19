@@ -1,4 +1,4 @@
-# Hi, I'm Danny 👋
+# Hi, I'm Danny
 
 I am a graduate student studying Data Science at UC San Diego. I was an Associate Data Engineer with experience in building end-to-end data pipelines. I also have experience building CNN Deep Learning ML Models from my past role as a Machine Learning Engineer.
 

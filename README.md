@@ -21,13 +21,15 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 
 ## My Data Lifecycle Focus
 - **Data Engineering:** Building the "plumbing" (ETL/Spark) to ensure data is clean, scalable, and reliable.
-- **Machine Learning:** Designing Deep Learning (CNNs) and LLM (RAG) models that solve complex problems.
-- **Data Science:** Converting model outputs into actionable ROI and strategic business decisions.
+- **Machine Learning & CV:** Designing Deep Learning (**CNNs, U-Net**) and LLM (RAG) models that solve complex problems.
+- **Data Science:** Converting model outputs and **statistical inference** into actionable ROI and strategic business decisions.
 
 ## Projects
 
-| Project | Topics | Description | Tools & Libraries |    
-|--------|--------|-------------|-------------------|
+| Project | Topics | Description | Tools & Libraries |
+|:---|:---|:---|:---|
+| **[NIH X-Ray Classification](https://github.com/dannyxia7/NIH-XRay-Segmentation)** | Computer Vision, Medical AI, Transformers |	Comparative study of MedViT vs. CNNs for multi-label pathology detection. Implemented metadata gating and weighted BCE loss to solve extreme class imbalance in 112k+ images. | `PyTorch`, `timm`, `torchvision`, `OpenCV`, `Grad-CAM`, `scikit-learn` |
+| **[US Power Outage Analysis](https://github.com/dannyxia7/US-Power-Outage-Analysis)** | EDA, Statistical Inference, Predictive Modeling | Investigated the relationship between climate characteristics and outage duration. Performed rigorous data cleaning, permutation testing, and built regression models to predict restoration times. | `Python`, `Pandas`, `Scikit-learn`, `Plotly`, `Statsmodels` |
 | **[Steam Recommender Study](https://github.com/dannyxia7/Steam_Recommender_Study)** | Hybrid ML, Matrix Factorization, Ensemble Models | Developed a production-ready hybrid model combining XGBoost/Ridge with Matrix Factorization on residuals to capture latent user-item signals. | `Python`, `XGBoost`, `Scikit-learn`, `Matrix Factorization`, `NLP` |
 | **[Optimizing RAG Pipelines with RapidFire AI](https://github.com/dannyxia7/RAG_Rapidfire)** | RAG, LLM Evaluation, AutoML, Finance | Systematically optimizes RAG retrieval by testing grids of chunking and reranking strategies to maximize evidence accuracy in financial Q&A. | `RapidFire AI`, `vLLM`, `LangChain`, `FAISS`, `PyTorch` |
 | [NLP Restaurant Prediction](https://github.com/dannyxia7/NLP_Restaurant_Prediction) | NLP, Classification | Predict restaurant types using TF-IDF + Logistic Regression (81% accuracy). Includes Word2Vec embeddings, XGBoost, and ensemble pipelines. | `pandas`, `scikit-learn`, `nltk`, `xgboost`, `lightgbm` |
@@ -35,8 +37,6 @@ Welcome to my GitHub portfolio! Below are some of my key projects showcasing my 
 | [Marketing Mix Modeling: Reported vs. Modeled Revenue](https://github.com/dannyxia7/Marketing_Mix_Model_Analysis) | Marketing Mixed Modeling, Marketing Analytics, Data Science, ROI | Analysis of why reported revenue from ad platforms is inflated compared to modeled revenue from MMM, and how this impacts budget allocation and ROI decisions. | `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter`, `statsmodels` |
 | [Steam Review Analysis](https://github.com/dannyxia7/Steam_Review_Analysis) | Text Mining, Regression, Collaboration | Collaborated with two team members and analyzed thousands of Steam reviews to predict sentiment and helpfulness using PySpark ML pipelines. | `PySpark`, `pandas`, `seaborn` |
 | [Weather ETL Pipeline](https://github.com/dannyxia7/Weather_ETL_Pipeline) | Data Engineering, ETL, REST API | Extracts, transforms, and loads weather forecast data from the OpenWeatherMap API into a PostgreSQL database using a scalable, batch-optimized pipeline. | `requests`, `psycopg2`, `json`, `logging`, `StringIO`, `PostgreSQL` |
-| [World Happiness Report](https://github.com/dannyxia7/World-Happiness-Report) | EDA, Visualization | Explored happiness scores globally with geographic visualizations and correlation analysis. | `pandas`, `seaborn`, `matplotlib` |
-| [SQL Practice](https://github.com/dannyxia7/SQL-Practice) | SQL, Data Analysis | Practice queries covering joins, aggregations, window functions, and subqueries on public datasets. | `PostgreSQL`, `SQLite` |
 
 ---
 
